@@ -1,0 +1,11 @@
+langchain_fireworks
+faiss-cpu
+sentence-transformers
+pillow
+transformers
+langchain_core
+langchain_community
+rich
+gradio
+tensorflow
+tf-keras
